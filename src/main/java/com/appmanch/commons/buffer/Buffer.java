@@ -20,7 +20,7 @@ import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 
 /**
- * Buffer interface for reading and writing data. This is inspire by the netty project.
+ * Buffer interface for reading and writing data. This is inspired by the netty project.
  * 
  * This is similar to the {@link ByteBuffer} however it uses a separate
  * reader and writer index for ease of access. This eliminates the invocation of
